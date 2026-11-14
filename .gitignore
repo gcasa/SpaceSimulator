@@ -1,0 +1,5 @@
+/Survey.app/
+*.o
+*.app
+.DS_Store
+build
